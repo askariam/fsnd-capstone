@@ -71,8 +71,8 @@ python test_app.py
 
 ### Introduction
 
-- Base URL: currently the API is published online on: `https://fsnd-askari.herokuapp.com/`
-and can be used locally only on `http://localhost:5000/`
+- Base URL: currently the API is published online on: `https://fsnd-askari.herokuapp.com/` [https://fsnd-askari.herokuapp.com/](https://fsnd-askari.herokuapp.com/)
+and can be used locally only on `http://localhost:5000/` [http://localhost:5000/](http://localhost:5000/)
 - Currently the API requires authentication. The tokens are in the attached posman collections and also provided in the env variables.
 
 ### Endpoints
