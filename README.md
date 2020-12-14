@@ -45,7 +45,7 @@ To run the server, execute:
 
 ```bash
 source setup.sh
-export FLASK_APP=flask
+export FLASK_APP=app
 flask run --reload
 ``` 
 
