@@ -119,7 +119,7 @@ curl --location --request POST 'localhost:5000/actors' \
 - Sample: `curl --location --request DELETE 'localhost:5000/actors/2`
 
 
-#### PATCH /movies
+#### PATCH /movies/<int:id>
 - General: update a movie
 - Sample: 
 ```
@@ -130,7 +130,7 @@ curl --location --request PATCH 'localhost:5000/movies/1' \
 }'
 ```
 
-#### PATCH /actors
+#### PATCH /actors/<int:id>
 - General: update an actor
 - Sample: 
 ```
